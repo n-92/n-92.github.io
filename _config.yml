@@ -1,0 +1,22 @@
+title: Your Company Name
+description: "We build X for Y — fast, reliable, and secure."
+email: hello@yourcompany.com
+url: "https://<your-username>.github.io"
+baseurl: ""
+theme: minima
+minima:
+  skin: auto
+header_pages:
+  - about.md
+  - services.md
+  - projects.md
+  - contact.md
+github_username: your-github
+linkedin: your-linkedin-handle
+twitter_username: your-twitter
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+google_analytics: ""
+logo: /assets/img/logo.png
